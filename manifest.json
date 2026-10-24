@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "Battleship Advisor",
+  "version": "1.1",
+  "description": "Optimal shot calculator for battleship-game.org. Supports RU and Classic modes.",
+  "homepage_url": "https://github.com/H6Whub/battleship-advisor",
+  "permissions": ["storage"],
+  "content_scripts": [{
+    "matches": ["*://*.battleship-game.org/*"],
+    "js": ["advisor.js"],
+    "run_at": "document_idle",
+    "all_frames": false
+  }],
+  "icons": {"16":"icon16.png","48":"icon48.png","128":"icon128.png"}
+}
