@@ -47,7 +47,7 @@
 
 ## Поддержать
 
-Если расширение пригодилось: [ko-fi.com/maixyyy](https://ko-fi.com/maixyyy)
+Если расширение пригодилось: [ko-fi.com/h6w](https://ko-fi.com/h6w)
 
 ---
 

@@ -275,7 +275,7 @@ const ui={
 <div id="bsa-ph"><span class="d"></span>TARGET</div>
 <div id="bsa-fleet"></div>
 <div id="bsa-foot">
-  <a id="bsa-don" href="https://ko-fi.com/maixyyy" target="_blank" rel="noopener">SUPPORT THE PROJECT</a>
+  <a id="bsa-don" href="https://ko-fi.com/h6w" target="_blank" rel="noopener">SUPPORT THE PROJECT</a>
 </div>`;
     document.body.appendChild(el);
     const map=el.querySelector('#bsa-map');
