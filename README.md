@@ -50,6 +50,6 @@
 
 ## Поддержать
 
-Если расширение пригодилось, поддержать можно на [ko-fi.com/h6w](https://ko-fi.com/h6w).
+Если расширение пригодилось, поддержать можно на [ko-fi.com/h6w](https://ko-fi.com/h6w) или через [DonationAlerts](https://www.donationalerts.com/r/h6wdonate).
 
 © 2026 H6W
